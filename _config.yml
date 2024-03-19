@@ -2,8 +2,9 @@
 title:               Remy Kim
 tagline:             '@StochasticRemy'
 description:         'Stochastic is Yours'
-url:                 'http://remyjkim.com'
-baseurl:             ''
+url:                 'http://remyjkim.github.io'
+baseurl:             '/remyjkim.com'
+root:                '/'
 paginate:            5
 permalink:           pretty
 
