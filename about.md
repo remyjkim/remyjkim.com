@@ -4,8 +4,10 @@ title: About
 ---
 
 <p class="message">
-  Hi, I'm Remy. You can each out to me at remyjkim8@gmail.com
+  Hi, I'm Remy. You can each out to me at remyjkim8@gmail.com.
 </p>
+
+<br>
 
 My interest lies in three areas:
 1. The non-linear dynamics between the **commodities market** and the **global macro economy**.

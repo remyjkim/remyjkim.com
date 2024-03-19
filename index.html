@@ -19,8 +19,9 @@ title: Home
       {% endif %}
     {% endfor %}
 </div>
-
+<hr>
 <div class="posts">
+  <h1 class="post">Posts</h1>
   {% for post in paginator.posts %}
   {% if post.status == "published" %}
   <div class="post">
