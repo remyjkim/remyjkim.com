@@ -68,5 +68,4 @@ At the same time, the book is not an easy read or a guaranteed path to riches. S
 
 Perhaps the greatest value of the book is the opportunity to observe a brilliant investor's mind at work. By studying Soros's decision-making process and real-world examples, readers can improve their own ability to analyze markets and make sound investment choices.
 
-Ultimately, "The Alchemy of Finance" is a book that rewards careful reading and re-reading. It is not a how-to manual but rather an invitation to think deeply about the nature of financial markets and the art of investing. For those willing to grapple with its ideas, the book offers a treasure trove of wisdom from one of the greatest financial alchemists of our time
-.
+Ultimately, "The Alchemy of Finance" is a book that rewards careful reading and re-reading. It is not a how-to manual but rather an invitation to think deeply about the nature of financial markets and the art of investing. For those willing to grapple with its ideas, the book offers a treasure trove of wisdom from one of the greatest financial alchemists of our time.
