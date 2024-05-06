@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review of Price Wars
+title: [Review] Price Wars by Rupert Russell
 status: published
 last_modified_at: 2023-10-10
 ---

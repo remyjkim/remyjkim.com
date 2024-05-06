@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review of The Alchemy of Finance
+title: [Review] The Alchemy of Finance by George Soros
 status: published
 last_modified_at: 2023-09-10
 ---
