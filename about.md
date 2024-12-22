@@ -4,22 +4,24 @@ title: About
 ---
 
 <p class="message">
-  Hi, I'm Remy. You can each out to me at remyjkim8@gmail.com.
+Buckle up, we're definitely living in the most interesting times. 
 </p>
-
 <br>
 
-#### I'm building [*Aalps*](https://www.aalps.me),
-a decentralized commodities value layer that aims to bridge the gap between the traditional commodities market and the crypto ecosystem. Feel free to reach out to me if you want to chat about commodities, crypto, or anything else.
+### About Me
 
-#### My personal interest lies in three areas:
-1. The non-linear dynamics between the **commodities market** and the **global macro economy**.
-2. Cryptographic primitives (e.g. smart contracts and zkSNARKs/MPCs) and their application as a **settlement layer** for the wider financial system.
-3. Decision making under uncertainty and the application of market microstructure theory to the design of financial markets/products.
+I'm a systems thinker at night. I'm obsessed with systems and how to analyze them and how to build sustainable and anti-fragile ones. I write about chokepoints in a complex system and signals that point to their inner workings on my [substack](https://signalsands.substack.com/).
 
-#### More about me:
-Here are some of my [*writings*](https://aalpsprotocol.notion.site/Aalps-Not-Yet-Official-Blog-afa9a524534241ecb8e4bd51e3dacf23?pvs=4) on my journey on the intersection of commodities markets and crypto and how Aalps seeks to bridge the two.
+During the day, I'm an entrepreneur and founder of [*Aalps*](https://www.aalpslabs.com), the information capitalism infrastructure of the 21st century. More on what I mean by that [here](https://www.aalpslabs.com/blog/info-capitalism).
 
-I'm a [Seoul Nationl University](https://en.snu.ac.kr/) [ECE](http://ee.snu.ac.kr/en)/[CBA](https://cba.snu.ac.kr/en) alumni and currently on a leave from my graduate studies at UPenn [CIS](https://www.cis.upenn.edu/) to venture into [Aalps Protocol](https://www.aalps.me).
+In this blog, I share my thoughts on AI, crypto, finance, epistemology, knowledge creation and how they are all connected. The hint is the interplay between signals, perception and value.
 
-Feel free to message me and say hi if you got this far, I don’t bite unless angered.
+Feel free to message me and say hi if you got this far, I don’t bite unless angered. remyjkim8@gmail.com.
+
+<small>
+Proud alumni of [Seoul National University](https://en.snu.ac.kr/) where I was fortunate to study control systems, computer systems and financial systems.
+
+I'm currently on a leave from my graduate studies at [UPenn](https://www.upenn.edu/) where I studied computer science.
+</small>
+
+

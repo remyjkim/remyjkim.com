@@ -1,7 +1,7 @@
 # Setup
 title:               Remy Kim
-tagline:             '@StochasticRemy'
-description:         'Stochastic is Yours'
+tagline:             'Unbundling and Rebundling'
+description:         ''
 baseurl:             ''
 root:                ''
 paginate:            5
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Remy K
-  url:               https://twitter.com/stochasticremy
+  url:               https://twitter.com/remycancook
   email:             remyjkim8@gmail.com
 
 # Gems
