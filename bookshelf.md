@@ -4,14 +4,8 @@ title: Bookshelf
 ---
 
 
-Here I direct you to some of the best quotes, writings or books that I come back to every year. I hope you find them as insightful as I did.
+Here I direct you to some of the best writings or books that I come back to every year. I hope you find them as insightful as I did.
 
-# Quotes that steer my thinking
-* <span style="color: blue">*"The only thing that is constant is change"*</span> - Heraclitus
-* <span style="color: blue">*"There are only three ways for humans to change: First, change the time allocation; Second, change the place of residence; Third, change the people with whom they interact. Only under these three elements can human beings change. One of the most meaningless is: 'Make new resolutions'."*</span> - Kenichi Ohmae
-* <span style="color: blue">*"There are three qualities to look for in a partner: intelligence, energy, and integrity."*</span> - Naval Ravikant
-* <span style="color: blue">*"Our strategy is to use systems, alter systems, and build systems that expand our circles in ways each of us couldn't do on our own... Uncertainty is a feature of every strategy. Not the delineated steps of a proven process, but the exploration and probabilities of creating a better version of the future."*</span> - Seth Godin
-* <span style="color: blue">*"The curious mind embraces science; the gifted and sensitive, the arts; the practical, business; the leftover becomes an economist"*</span> - Nassim Nicholas Taleb
 
 # Writings I cherish
 * [How to Make Something Great](https://ryolu.notion.site/how-to-make-something-great) by Ryo Lu
@@ -78,3 +72,183 @@ Here I direct you to some of the best quotes, writings or books that I come back
 * A History of Religious Ideas by Mircea Eliade
 * Genesis by Henry A. Kissinger, Craig Mundie and Eric Schmidt
 * Shape by Jordan Ellenberg
+
+---
+For those who've made it this far, I also present to you my life-long bookshelf of bold questions (continually updated).
+<details>
+<summary>Bold Questions</summary>
+
+<div class="regular-text">
+<div class="quote-box">
+  1. What trade-offs am I willing to make?
+</div>
+
+<div class="quote-box">
+  2. Why am I engaging in this? Where in my hierarchy of causes is this goal located?
+</div>
+
+<div class="quote-box">
+  3. Where do we find happiness from?
+</div>
+
+<div class="quote-box">
+  4. How does one build trust with another or destroy it?
+</div>
+
+<div class="quote-box">
+  5. Where is it that would bring out the best of me?
+</div>
+
+<div class="quote-box">
+  6. How does one foster and maintain a firm grounding that withstands circumstances?
+</div>
+
+<div class="quote-box">
+  7. New Room near a forest: better air or more bugs?
+</div>
+
+<div class="quote-box">
+  8. How will today be remembered as? To me? To others?
+</div>
+
+<div class="quote-box">
+  9. What am I capable of?
+</div>
+
+<div class="quote-box">
+  10. When should I be flexible and let go of my convictions?
+</div>
+
+<div class="quote-box">
+  11. How do we extract signal from noise amid floods of information? What glasses need we put on?
+</div>
+
+<div class="quote-box">
+  12. What does it take to be a more humorous, entertaining person?
+</div>
+
+<div class="quote-box">
+  13. What defines a founder? A great one that builds a one-in-ten-thousand company?
+</div>
+
+<div class="quote-box">
+  14. Will my generation ever witness a major war in our lives?
+</div>
+
+<div class="quote-box">
+  15. Will global trade ever be settled in crypto in the near future?
+</div>
+
+<div class="quote-box">
+  16. When is sincerity fully delivered/communicated from one mind to another? Or is it just false hope?
+</div>
+
+<div class="quote-box">
+  17. What will be the invariant for the next 30 years? Variants?
+</div>
+
+<div class="quote-box">
+  18. What constitutes a brilliant persuader, or a great visionary?
+</div>
+
+<div class="quote-box">
+  19. What does it mean to own something? Someone, idea? capital, memory, share of a company? crypto? time?
+</div>
+
+<div class="quote-box">
+  20. Why do people scam others even when they are directly benefiting?
+</div>
+
+<div class="quote-box">
+  21. Is leverage always better off?
+</div>
+
+<div class="quote-box">
+  22. How does one become an independent consumer of news and social media without falling prey to it? More fact-checking? or simply reducing one's exposure to them?
+</div>
+
+<div class="quote-box">
+  23. How are token stakings and bonds fundamentally different?
+</div>
+
+<div class="quote-box">
+  24. How do I perceive the current self? What do I want myself to be? What does it take to have full control of my brain? my habits? my thoughts? my reactions?
+</div>
+
+<div class="quote-box">
+  25. Why do I repeat downloading and deleting the instagram app? What is this algorithm doing to me?
+</div>
+
+<div class="quote-box">
+  26. To what extent does geopolitics determine a nation's futures?
+</div>
+
+<div class="quote-box">
+  27. Why would anyone want to overhaul/transform one's identity?
+</div>
+
+<div class="quote-box">
+  28. How can I ever be adequately appreciative or grateful? How about when it is already transactional?
+</div>
+
+<div class="quote-box">
+  29. What adjective do I want my name to be?
+</div>
+
+<div class="quote-box">
+  30. What quality (or qualities) maketh a man superhuman?
+</div>
+
+<div class="quote-box">
+  31. Can antifragility ever be artificially designed?
+</div>
+
+<div class="quote-box">
+  32. One's definition of success vs one's constructed meaning in life? Are they equivalent? Can each be measured?
+</div>
+
+<div class="quote-box">
+  33. How do I mechanically remove negative associations existing in my visual cortex?
+</div>
+
+<div class="quote-box">
+  34. Do I have all the answers already? Am I ever ready enough?
+</div>
+
+<div class="quote-box">
+  35. Questions about questions?
+</div>
+
+<div class="quote-box">
+  36. Am I still afraid to put myself out there? to make enemies?
+</div>
+
+<div class="quote-box">
+  37. Is it true that actions speak louder than words? How do words gain power that transcends circumstances and actions? Money speaks? Markets talk?
+</div>
+
+<div class="quote-box">
+  38. Is consensus closer to the truth?
+</div>
+
+<div class="quote-box">
+  39. Is "the life of questioning" consistently beneficial?
+</div>
+
+<div class="quote-box">
+  40. Is there a way to measure my self-honesty? How do I hold myself accountable for not being honest?
+</div>
+
+<div class="quote-box">
+  41. What are the lenses through which I perceive signals? Which k-v cache do I access most frequently?
+</div>
+
+<div class="quote-box">
+  42. How vulnerable does one become when experiencing deficiency? Is deficiency absolute? relative? mental? Are adversity, loneliness and solitude deficiencies?
+</div>
+
+<div class="quote-box">
+  43. Does programmable money strengthen or mitigate reflexivity? How does the interplay among signal (observation), perception (world model) and action influence this process?
+</div>
+</div>
+</details>

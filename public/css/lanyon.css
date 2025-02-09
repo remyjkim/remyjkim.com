@@ -38,7 +38,7 @@
 html,
 body {
   overflow-x: hidden;
-  font-size: 100%;
+  font-size: 16px; /* Set base font size */
 }
 
 html {
@@ -59,14 +59,14 @@ h2 {
   font-size: 1.1em;
   color: #444343;
 }
-h2 {
-  font-size: 1.em;
+h3 {
+  font-size: 1em;
 }
 h6 {
-  font-size: .7em;
+  font-size: 0.7em;
 }
-p {
-  font-size: 0.875em;
+p, details, summary {
+  font-size: 0.875em; /* This sets the regular/smallest text size */
 }
 
 
@@ -176,9 +176,9 @@ p {
 
 @media (max-width: 40em) {
   .sidebar {
-    left: fixed;
-    width: 40em;
-    font-size: .75rem; /* 14px */
+    left: 0;
+    width: 100%;
+    font-size: .75rem;
     position: relative;
   }
 }
@@ -598,4 +598,22 @@ a.pagination-item:hover {
 
 .last-modified {
   margin-bottom: 3rem; /* Adds space equivalent to roughly three lines of text */
+}
+
+.regular-text {
+  font-size: 0.875em;
+}
+
+.quote-box {
+  border: 1px solid #eee;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #f9f9f9;
+}
+
+.quote-attribution {
+  text-align: right;
+  margin-top: 0.5rem;
+  font-style: italic;
+  color: #666;
 }

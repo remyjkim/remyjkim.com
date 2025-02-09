@@ -17,143 +17,38 @@ Feel free to message me and say hi if you got this far, I don't bite unless ange
 
 ---
 <details>
-<summary>Just in case you are curious about my thinking :) </summary>
+<summary>Quotes that steer my thinking </summary>
+<div class="regular-text">
+<div class="quote-box">
+  <span style="color: blue">"The only thing that is constant is change"</span>
+  <div class="quote-attribution">- Heraclitus</div>
+</div>
 
-The following questions are ones that I regularly ask myself: 
-<br>
+<div class="quote-box">
+  <span style="color: blue">"There are only three ways for humans to change: First, change the time allocation; Second, change the place of residence; Third, change the people with whom they interact. Only under these three elements can human beings change. One of the most meaningless is: 'Make new resolutions'."</span>
+  <div class="quote-attribution">- Kenichi Ohmae</div>
+</div>
 
-1. What trade-offs am I willing to make?
-<br>
+<div class="quote-box">
+  <span style="color: blue">"There are three qualities to look for in a partner: intelligence, energy, and integrity."</span>
+  <div class="quote-attribution">- Naval Ravikant</div>
+</div>
 
-2. Why am I engaging in this? Where in my hierarchy of goals is this cause located?
-<br>
+<div class="quote-box">
+  <span style="color: blue">"Our strategy is to use systems, alter systems, and build systems that expand our circles in ways each of us couldn't do on our own... Uncertainty is a feature of every strategy. Not the delineated steps of a proven process, but the exploration and probabilities of creating a better version of the future."</span>
+  <div class="quote-attribution">- Seth Godin</div>
+</div>
 
-3. Where do we find happiness from
-<br>
-
-4. How does one build trust with another or destroy it
-<br>
-
-5. Where is it that would bring out the best of me?
-<br>
-
-6. How does one foster and maintian a firm grounding that withstands circumstances?
-<br>
-
-7. New Room near a forest: better air or more bugs?
-<br>
-
-8. How will today be remembered as? To me? To other?
-<br>
-
-9. What am I capable of?
-<br>
-
-10. When should I be flexible and let go of my convictions
-<br>
-
-11. How do we extract signal from noise amid floods of information? What glasses need we put on?
-<br>
-
-12. What does it take to be a more humorous, entertaining person?
-<br>
-
-13. What defines a founder? A great one that builds a one-in-ten-thousand company?
-<br>
-
-14. Will my generation ever witness a major war in our lives?
-<br>
-
-15. Will global trade ever be settled in crypto in the near future?
-<br>
-
-16. When is sincerity fully delivered/communicated from one mind to another? Or is it just false hope?
-<br>
-
-17. What will be the invariant for the next 30 years? Variants?
-<br>
-
-18. What constitutes a brilliant persuader, or a great visionary?
-<br>
-
-19. What does it mean to own something? Someone, idea? capital, memory, share of a company? crypto? time?
-<br>
-
-20. Why do people scam others even when they are directly benefiting?
-<br>
-
-21. Is leverage always better off?
-<br>
-
-22. How does one become an independent consumer of news and social media without falling prey to it? More fact-checking? or simply reducing one's exposure to them?
-<br>
-
-23. how are token staking and bonds fundamentally different?
-<br>
-
-24. How do I perceive the current self? What do I want myself to be? What does it take to have full control of my brain? my habits? my thoughts? my reactions?
-<br>
-
-25. Why do I repeat downloading and deleting the instagram app?
-<br>
-
-26. To what extent does geopolitics determine a nation's futures?
-<br>
-
-27. Why would anyone want to overhal/transform one's identity?
-<br>
-
-28. How can I ever be adequately appreciative or grateful? How about when it is already transactional?
-<br>
-
-29. What adjective do I want my name to be?
-<br>
-
-30. What quality (or qualities) maketh a man superhuman?
-<br>
-
-31. Can antifragility ever be artificially designed?
-<br>
-
-32. One's definition of success vs one's constructed meaning in life? Are they equivalent? Can each be measured?
-<br>
-
-33. How do I mechanically remove negative associations existing in my visual cortex?
-<br>
-
-34. Do I have all the answers already? Am I every ready enough?
-<br>
-
-35. Questions about questions?
-<br>
-
-36. Am I still afraid to put myself out there? to make enemies?
-<br>
-
-37. Is it true that actions speak louder than words? How do words gain power that transcends circumstances and actions? Money speaks? Markets talk?
-<br>
-
-38. Is consensus closer to the truth?
-<br>
-
-39. Is "the life of questioning" consistently beneficial?
-<br>
-
-40. Is there a way to measure my self-honesty? How do I hold myself accountable for not being honest?
-<br>
-
-41. What are the lenses through which I perceive signals? Which k-v cache do I access most frequently?
-<br>
-
-42. How vulnerable does on become when experiencing deficiency? Is deficiency absolute? relative? mental? Are adversity, loneliness or solitude deficiencies?
-<br>
-
-43. Does programmable money strengthen or mitigate reflexivity? How does the interplay among signal (obeservation), perception (world model) and action influence this process?
-<br>
-
+<div class="quote-box">
+  <span style="color: blue">"The curious mind embraces science; the gifted and sensitive, the arts; the practical, business; the leftover becomes an economist"</span>
+  <div class="quote-attribution">- Nassim Nicholas Taleb</div>
+</div>
+</div>
 </details>
 
-Also check out my bookshelf!
+<br>
+
+Bunch of these quotes are from my [bookshelf](../bookshelf)!
 
 <!-- <small>
 Proud alumni of [Seoul National University](https://en.snu.ac.kr/) where I was fortunate to study control systems, computer systems and financial systems.
