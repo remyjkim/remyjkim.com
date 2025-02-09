@@ -10,10 +10,8 @@ title: Home
       {% if node.title == "About Blog" %}
         {% if node.layout == "page" %}
         <div class="page">
-          <!-- <h1 class="page-title">
-          <a href="{{ node.url }}"></a>
-          {{ node.title }}</h1> -->
-          {{ content }}
+          <h1 class="page-title">{{ node.title }}</h1>
+          {{ node.content }}
         </div>
         {% endif %}
       {% endif %}
