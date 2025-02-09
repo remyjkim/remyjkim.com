@@ -38,7 +38,8 @@
 html,
 body {
   overflow-x: hidden;
-  font-size: 16px; /* Set base font size */
+  font-size: 15px; /* Reduced from 16px */
+  line-height: 1.6; /* Added line height for better readability */
 }
 
 html {
@@ -66,7 +67,9 @@ h6 {
   font-size: 0.7em;
 }
 p, details, summary {
-  font-size: 0.875em; /* This sets the regular/smallest text size */
+  font-size: 0.95em; /* Adjusted from 0.875em for better proportions */
+  margin-bottom: 1.2em; /* Added spacing between paragraphs */
+  line-height: 1.7; /* Slightly larger line height for text content */
 }
 
 
