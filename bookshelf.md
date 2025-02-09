@@ -14,7 +14,7 @@ Here I direct you to some of the best writings or books that I come back to ever
 * Poszar's writings: [his past Writings at Credit Suisse](https://www.exunoplures.hu/a-decade-on-money/) and [newly added pieces](https://www.exunoplures.hu/money-banks-and-bases/) - Poszar truly thinks in systems
 * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/posts/2018-02-19-rl-overview/) by Lilian Weng - Haven't seen a better intro to RL
 * Linus' [A Beginner's Guide to Exploration](https://thesephist.com/posts/explore/) and [Notational Intelligence](https://thesephist.com/posts/notation/) - His writings elegantly capture layers of truth in life
-* [How to Pick an Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html) by Tim Urban
+* [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html) by Tim Urban
 * Patrick Collison's [Advice](https://patrickcollison.com/advice), Sam Altman's [Advice](https://blog.samaltman.com/what-i-wish-someone-had-told-me) and Paul Graham's Take on [Independent Thinking](https://www.paulgraham.com/think.html) (and all their other essays)
 
 # Books I can't stop re-reading
