@@ -64,6 +64,8 @@ Here I direct you to some of the best writings or books that I come back to ever
 * [The Art Spirit](https://www.amazon.com/Art-Spirit-Robert-Henri/dp/0465002633) by Robert Henri
 * [Popper Selections](https://www.amazon.com/Popper-Selections-Karl-R/dp/0691020310/ref=sr_1_8?dib=eyJ2IjoiMSJ9.lQbXfIi5MiIZC6S5UBBsz-bLH1cn2fn1BBG2G6D_T45ymtib0rFQa2rldLOIdpJT-0MaeyjrvFCEtF2YGepteJAF-avv31dObw0DiTyur-qXA35mMm7_2fO9esEpnnE2XwMxunatXRsRjsKZ6750z1DaeGHJPcmYuAQCxQfn4fvmuMaD_Tes0ZK6jmLoNexygaW0Mg5W0JSgaJ4UTFJAwx8OgbeXQ4ykx74czsJcyIs.upeiK5u4wRa2LxTihxcdATzTddWPHAVLNkC8vp1tT2s&dib_tag=se&qid=1739073838&refinements=p_27%3AKarl+Popper&s=books&sr=1-8) by Karl Popper
 * [What is Power](https://www.goodreads.com/book/show/39971959) and all other works by Byung-Chul Han
+* [The Unbearable Lightness of Being](https://en.wikipedia.org/wiki/The_Unbearable_Lightness_of_Being) by Milan Kundera
+* [눈길](https://namu.wiki/w/%EB%88%88%EA%B8%B8(%EC%86%8C%EC%84%A4)) by 이청준
 
 
 
