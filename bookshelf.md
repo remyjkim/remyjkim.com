@@ -21,7 +21,7 @@ Here I direct you to some of the best writings or books that I come back to ever
 
 **Clarity in Life**
 * [The Almanack of Naval Ravikant](https://www.navalmanack.com/) by Naval Ravikant
-* [Antifragile: Things that gain from order](https://www.amazon.com/Antifragile-Nassim-Nicholas-Taleb-audiobook/dp/B00A2ZIZYQ/ref=sr_1_1?keywords=antifragile+by+nassim+taleb&qid=1664508252&qu=eyJxc2MiOiIyLjE5IiwicXNhIjoiMS44NCIsInFzcCI6IjEuODkifQ%3D%3D&s=audible&sprefix=antifra%2Caudible%2C55&sr=1-1) (and the whole Incerto series) by Nassim Nicholas Taleb - "Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same; the antifragile gets better"
+* [Antifragile: Things that gain from **dis**order](https://www.amazon.com/Antifragile-Nassim-Nicholas-Taleb-audiobook/dp/B00A2ZIZYQ/ref=sr_1_1?keywords=antifragile+by+nassim+taleb&qid=1664508252&qu=eyJxc2MiOiIyLjE5IiwicXNhIjoiMS44NCIsInFzcCI6IjEuODkifQ%3D%3D&s=audible&sprefix=antifra%2Caudible%2C55&sr=1-1) (and the whole Incerto series) by Nassim Nicholas Taleb - "Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same; the antifragile gets better"
 * [Principles: Life and Work](https://www.amazon.com/Principles-Ray-Dalio-audiobook/dp/B074B2CZJG/ref=sr_1_1?keywords=principles+by+ray+dalio&qid=1664508211&qu=eyJxc2MiOiIyLjUzIiwicXNhIjoiMS45NiIsInFzcCI6IjIuMTIifQ%3D%3D&sprefix=principles%2Caps%2C115&sr=8-1) by Ray Dalio - Never hurts to have principles to live by.
 * [The Tao of Seneca](https://www.audible.com/series/The-Tao-of-Seneca-Audiobooks/B01AKQ5F1M) by Tim Ferris - Best for long runs
 
@@ -152,11 +152,11 @@ For those who've made it this far, I also present to you my life-long bookshelf 
 </div>
 
 <div class="quote-box">
-  19. What does it mean to own something? Someone, idea? capital, memory, share of a company? crypto? time?
+  19. What does it mean to own something? Memory? Idea? Someone? Share of a company? Capital? Crypto? Time?
 </div>
 
 <div class="quote-box">
-  20. Why do people scam others even when they are directly benefiting?
+  20. Why do people scam others even when they are not directly benefiting?
 </div>
 
 <div class="quote-box">
