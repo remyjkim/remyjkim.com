@@ -47,6 +47,7 @@ Here I direct you to some of the best writings or books that I come back to ever
 * [The World for Sale](https://www.amazon.com/World-Sale-Javier-Blas/dp/0190078952) by Javier Blas
 * [The New Map: Energy, Climate, and the Clash of Nations](https://www.amazon.com/New-Map-Energy-Climate-Nations/dp/0143111159/ref=pd_lpo_d_sccl_1/130-3312634-9126730?pd_rd_w=YiudZ&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=HEQQKKDA07Z6KX3C9EHR&pd_rd_wg=oKvkG&pd_rd_r=2648d900-2ad7-4e71-ab6c-847df21b1c40&pd_rd_i=0143111159&psc=1) by Daniel Yergin
 * [Geopolitical Alpha: An Investment Framework for Predicting the Future](https://www.amazon.com/Geopolitical-Alpha-Investment-Framework-Predicting/dp/1119740215) by Marko Papic
+* [해방 후 3년: 건국을 향한 최후의 결전 Three years after liberation: The final battle for the nation](https://product.kyobobook.co.kr/detail/S000001861372) by 조한성
 
 
 **Cognitive Science / Human Psyche**
@@ -65,7 +66,7 @@ Here I direct you to some of the best writings or books that I come back to ever
 * [Popper Selections](https://www.amazon.com/Popper-Selections-Karl-R/dp/0691020310/ref=sr_1_8?dib=eyJ2IjoiMSJ9.lQbXfIi5MiIZC6S5UBBsz-bLH1cn2fn1BBG2G6D_T45ymtib0rFQa2rldLOIdpJT-0MaeyjrvFCEtF2YGepteJAF-avv31dObw0DiTyur-qXA35mMm7_2fO9esEpnnE2XwMxunatXRsRjsKZ6750z1DaeGHJPcmYuAQCxQfn4fvmuMaD_Tes0ZK6jmLoNexygaW0Mg5W0JSgaJ4UTFJAwx8OgbeXQ4ykx74czsJcyIs.upeiK5u4wRa2LxTihxcdATzTddWPHAVLNkC8vp1tT2s&dib_tag=se&qid=1739073838&refinements=p_27%3AKarl+Popper&s=books&sr=1-8) by Karl Popper
 * [What is Power](https://www.goodreads.com/book/show/39971959) and all other works by Byung-Chul Han
 * [The Unbearable Lightness of Being](https://en.wikipedia.org/wiki/The_Unbearable_Lightness_of_Being) by Milan Kundera
-* [눈길](https://namu.wiki/w/%EB%88%88%EA%B8%B8(%EC%86%8C%EC%84%A4)) by 이청준
+* [눈길](https://m.blog.naver.com/perfect2900/222246262855) by 이청준 Cheong-jun Yi
 
 
 
